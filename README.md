@@ -41,24 +41,31 @@ A conditional statement is one that is evaluated as True or False. You can kind 
 There are several different conditional operators
 
 Consider 2 variables or values: \
+```
 a == b    Checks to see if the 2 values are equal
 a > b     Checks to see if a is greater than b
 a < b     Checks to see if a is less than b
 a >= b    Checks to see if a is greater than or equal to b
 a <= b    Checks to see if a is less than or equal to b
 a != b    Checks to see if a and b are not equal
+```
 These all work for both numerical values (int and float) as well as for strings
 
 "in" is a special conditional operator that compares 2 strings.  It can be used to see if one string
 can be found somewhere in the other string. These 2 strings are sometimes referred to as the
 "needle" and the "haystack" \
+```
 "example: \
 *needle* in *haystack*
 "i" in "team" is evaluated as False
 "fun" in "funeral" is evaluated as True
+```
 
-
-
+### IF and IF/ELSE statements ###
+One important use for conditional statements is the "if" statement, or the "if else" statement.  These control the flow of the program, and introduce to our first use of indenting in Python to identify blocks of code. 
+* Open up example1.py to see how an if statement works.
+* Open up example2.py to see how an if..else statement works
+* Open up example3.py to see how an if...else...if statement works
 
 ### XX Tasks
 
