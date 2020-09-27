@@ -74,17 +74,17 @@ All tasks should be completed.
 Problems are optional.
 
 ##### Task 1
-Open the file called task1.py
-Have the user input a number.
-Determine if the number is larger than 100
-If it is, the output should read "The number is larger than 100"
+Open the file called task1.py \
+Have the user input a number. \
+Determine if the number is larger than 100 \
+If it is, the output should read "The number is larger than 100" \
 (2 points) 
 
 ##### Task 2
-Open the file called task2.py
-Have the user input a number
-Determine if the number is positive, negative or 0
-Check the code for a list of valid output results
+Open the file called task2.py \
+Have the user input a number \
+Determine if the number is positive, negative or 0 \
+Check the code for a list of valid output results \
 (2 points)
 
 ##### Task 3
