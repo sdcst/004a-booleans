@@ -1,5 +1,5 @@
 ## SDSS Computing Studies Python Assignment
-### Assignment #004a Introduction to Boolean Variables (Total Marks 10)
+### Assignment #004a Introduction to Boolean Variables (Total Marks 15)
 
 Objectives:
 * Differentiate boolean variables from int, float and str
