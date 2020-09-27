@@ -67,8 +67,82 @@ One important use for conditional statements is the "if" statement, or the "if e
 * Open up example2.py to see how an if..else statement works
 * Open up example3.py to see how an if...else...if statement works
 
-### XX Tasks
+### 4 Tasks
+### 5 Problems
+### Total mark available: 15
+All tasks should be completed.
+Problems are optional.
 
 ##### Task 1
-(x points) 
+Open the file called task1.py
+Have the user input a number.
+Determine if the number is larger than 100
+If it is, the output should read "The number is larger than 100"
+(2 points) 
 
+##### Task 2
+Open the file called task2.py
+Have the user input a number
+Determine if the number is positive, negative or 0
+Check the code for a list of valid output results
+(2 points)
+
+##### Task 3
+Open the file called task3.py
+Have the user enter a number.
+Use an if...elif statement to determine if the number is
+a) larger than 1000
+b) larger than 100
+c) larger than 10
+d) larger than 0
+Output must match one of the valid output statements listed in the program
+(2 points)
+
+##### Task 4
+Open the file task4.py
+Have the user enter in a sentence.
+Check to see if the word "password" is located in the sentence.
+(2 mark)
+
+##### Problem 1
+Open the file problem1.py
+Have the user enter a number
+Determine if the number is an even number.
+Hint: Use the modulus, which determines the remainder when two numbers are divided
+(1 mark)
+
+##### Problem 2
+Open the file problem2.py
+Have the user enter a number
+Determine if the number is an integer value.
+(1 mark)
+
+##### Problem 3
+Open the file called problem3.py
+Have the user enter a username
+If the username is not "admin" then tell them it is an invalid user,
+but if it is, then ask them for a password
+If they get the password correct (password is 12345password) then display
+the message "Access granted")
+(1 marks)
+
+##### Problem 4
+Open the file called problem4.py
+Have the user enter in 3 numerical values, representing the side lengths of a triangle.
+Determine if the values are close enough to make a right triangle.
+(It is close enough if the expected length of the hypotenuse and the actual 
+length differ by no more than 2%)
+(2 marks)
+
+##### Problem 5
+Open the file called problem5.py
+In math, if a quadratic equation is in the format
+ax^2 + bx + c = 0, the discriminant can be calculated as
+b^2 - 4 * a * c
+If the discriminant is a perfect square, the equation can
+be factored.  Furthermore, if the discriminant is negative,
+then the equation has no solutions.
+Have the user enter in values for a, b and c and then 
+tell them if there are solutions as well as if the equation can
+be factored.
+(2 marks)
