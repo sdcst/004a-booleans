@@ -11,7 +11,7 @@
 # the indenting to indicate the block of code that is
 # in the if statement
 print("=============================")
-print("     Ex1: If statement       ")
+print(" Ex1: If...Else statement    ")
 print("=============================")
 if True:
   print("the condition is True")
@@ -27,7 +27,7 @@ print("=============================\n\n\n")
 # In this example, a condition is checked and the boolean value of True or False
 # is stored into the variable value
 print("=============================")
-print("     Ex2: If statement       ")
+print(" Ex2: If else statement      ")
 print("=============================")
 a = 10
 b = 5
