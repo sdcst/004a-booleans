@@ -51,14 +51,23 @@ a != b    Checks to see if a and b are not equal
 ```
 These all work for both numerical values (int and float) as well as for strings
 
-"in" is a special conditional operator that compares 2 strings.  It can be used to see if one string
+"in" is a special conditional operator that compares a number or string with a number of possible values.  It can be used to see if one string
 can be found somewhere in the other string. These 2 strings are sometimes referred to as the
 "needle" and the "haystack" \
+It can also be used to see if a number is within a specified range, equal to or greater than the first value,
+but less than the second value.
 ```
-"example: \
+examples:
+
+Strings
 *needle* in *haystack*
 "i" in "team" is evaluated as False
 "fun" in "funeral" is evaluated as True
+
+Numbers
+10 in range(1,100) is True
+1 in range(1,100) is True
+100 in range(1,100) is False
 ```
 
 ### IF and IF/ELSE statements ###
