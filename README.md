@@ -60,7 +60,7 @@ but less than the second value.
 examples:
 
 Strings
-*needle* in *haystack*
+"needle" in "haystack"
 "i" in "team" is evaluated as False
 "fun" in "funeral" is evaluated as True
 
