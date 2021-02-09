@@ -1,6 +1,8 @@
 #! python3
 # Have the user enter in 3 numerical values, representing the side lengths of a triangle. 
 # Determine if the values are close enough to make a right triangle. 
+# Note: You will need to decide which length is the possibly hypotenuse as the numbers
+# are being entered in a random order.
 # It is close enough if the expected length of the hypotenuse and the actual length 
 # differ by no more than 2% 
 # (2 marks)
