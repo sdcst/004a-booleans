@@ -113,6 +113,7 @@ Have the user enter in a sentence.
 Check to see if the word "password" is located in the sentence.
 (2 mark)
 
+
 ##### Problem 1
 Open the file problem1.py
 Have the user enter a number
