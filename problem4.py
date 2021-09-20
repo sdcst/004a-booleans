@@ -14,3 +14,22 @@
 # - "that is a right triangle"
 # - "that is an acute triangle"
 # - "that is an obtuse triangle"
+"""
+Example:
+Enter one side: 5
+Enter a second side: 13
+Enter third side: 12
+that is a right triangle
+
+Enter one side: 13.01
+Enter a second side: 5
+Enter third side: 12
+that is a right triangle
+
+Enter one side: 5
+Enter a second side: 15
+Enter third side: 12
+that is an obtuse triangle
+
+
+"""
