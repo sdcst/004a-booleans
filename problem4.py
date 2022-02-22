@@ -4,7 +4,7 @@
 # Note: You will need to decide which length is the possibly hypotenuse as the numbers
 # are being entered in a random order.
 # It is close enough if the expected length of the hypotenuse and the actual length 
-# differ by no more than 2% 
+# has a percent difference less than 2%
 # (2 marks)
 
 # Inputs:
