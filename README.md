@@ -48,6 +48,7 @@ a < b     Checks to see if a is less than b
 a >= b    Checks to see if a is greater than or equal to b
 a <= b    Checks to see if a is less than or equal to b
 a != b    Checks to see if a and b are not equal
+a < b < c Python also supports multiple comparisons using the less than and greater than symbols.  Not many other languages can do this
 ```
 These all work for both numerical values (int and float) as well as for strings
 
