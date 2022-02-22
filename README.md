@@ -140,8 +140,8 @@ the message "Access granted")
 Open the file called problem4.py
 Have the user enter in 3 numerical values, representing the side lengths of a triangle.
 Determine if the values are close enough to make a right triangle.
-(It is close enough if the expected length of the hypotenuse and the actual 
-length differ by no more than 2%)
+(It is close enough if the percent difference between the actual and the calculated 
+measurement is less than 2%
 (2 marks)
 
 ##### Problem 5
